@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+creatd on 18th Feb 2021
 
 ### Project Title
-Replace the Project Title
+GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+This project 3 for Programming Data science for GitHub
 
 ### Files used
-Include the files used
+bikeshare
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+## create new brnch
+
+Documentation branch created
